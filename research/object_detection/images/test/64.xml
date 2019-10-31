@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>64.jpeg</filename>
+	<path>C:\Users\Bilal\Documents\models\research\object_detection\images\test\64.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>35</ymin>
+			<xmax>799</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

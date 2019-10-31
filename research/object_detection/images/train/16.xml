@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16.jpeg</filename>
+	<path>C:\Users\Bilal\Documents\models\research\object_detection\images\train\16.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>256</ymin>
+			<xmax>563</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
